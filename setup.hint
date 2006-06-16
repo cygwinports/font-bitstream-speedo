@@ -1,0 +1,4 @@
+category: X11
+requires: mkfontdir mkfontscale fontconfig xorg-encodings
+sdesc: "Xorg Bitstream Speedo fonts"
+ldesc: "Xorg Bitstream Speedo fonts"
